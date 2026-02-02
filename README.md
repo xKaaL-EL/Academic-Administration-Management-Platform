@@ -2,13 +2,20 @@
 🎓 Integrated School Management System is a comprehensive, web-based application designed to streamline and automate core academic and administrative operations of an educational institution. The system focuses on efficiency, data accuracy, and role-based access to ensure smooth management of students, staff, and academic activities.
 
 +✨ Key Highlights
+
 +🧑‍🎓 Student Management – Admission records, profiles, and academic details
+
 +👨‍🏫 Staff Management – Teacher and staff data handling
+
 +📚 Academic Management – Classes, subjects, and academic structure
+
 +🗂️ Centralized Database – Secure and structured data storage
+
 +🔐 Role-Based Authentication – Admin-controlled access and security
+
 +🧾 Reports & Records – Organized data retrieval and reporting
-🖥️ User-Friendly Interface – Clean and intuitive design
+
++🖥️ User-Friendly Interface – Clean and intuitive design
 
 🛠️ Technology Stack
 
