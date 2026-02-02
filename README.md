@@ -26,15 +26,15 @@
 
 ## 🎯 Objectives
 
--Automate manual academic and administrative processes  
--Reduce data redundancy and improve accuracy  
--Provide a structured and secure data management system   
+- Automate manual academic and administrative processes  
+- Reduce data redundancy and improve accuracy  
+- Provide a structured and secure data management system   
 
 ------------------------------------------------------------------
 
 ## 📌 Ideal For
 
--Academic institutions
--College-level project demonstration
--Learning full-stack / database-driven application development
+- Academic institutions
+- College-level project demonstration
+- Learning full-stack / database-driven application development
 
