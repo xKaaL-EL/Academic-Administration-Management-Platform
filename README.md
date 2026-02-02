@@ -34,7 +34,7 @@
 
 ## 📌 Ideal For
 
--Academic institutions
--College-level project demonstration
--Learning full-stack / database-driven application development
+- Academic institutions
+- College-level project demonstration
+- Learning full-stack / database-driven application development
 
