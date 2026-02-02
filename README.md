@@ -26,9 +26,9 @@
 
 ## 🎯 Objectives
 
-- Automate manual academic and administrative processes  
-- Reduce data redundancy and improve accuracy  
-- Provide a structured and secure data management system   
+-Automate manual academic and administrative processes  
+-Reduce data redundancy and improve accuracy  
+-Provide a structured and secure data management system   
 
 ------------------------------------------------------------------
 
